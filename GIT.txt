@@ -1,0 +1,5 @@
+What is HEAD? What is Detached head? What are experimental commits? https://www.youtube.com/watch?v=HvDjbAa9ZsY
+What is remote?
+what is repository?
+what is project?
+Project | REPO | Remote - differences?

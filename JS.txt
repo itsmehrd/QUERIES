@@ -1,0 +1,1 @@
+Why do we use getters and setters? Why do we prefer this approach over the traditional variable declaration method?
