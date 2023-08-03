@@ -1,1 +1,10 @@
 GIT Visualizer: http://git-school.github.io/visualizing-git/
+Drawing tool: https://excalidraw.com/
+
+Angular
+Contribute to Angular guide: https://angular.io/guide/contributors-guide-overview
+Angular debugging guide: https://blog.angular.io/angular-debugging-guides-dfe0ef915036
+Angular debugging playlist: https://www.youtube.com/playlist?list=PL1w1q3fL4pmi8SydlCdMdm7kCbHi-7wpS
+
+Extensions
+1. Paste JSON as code (src: Jeff Delaney @Fireship)
